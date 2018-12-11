@@ -19,6 +19,7 @@ organized? How would branches help?
 	Branches let us develop code in more than one direction.
 
 How do the diagrams help you visualize the branch structure?
+	We get a much more visual understanding of how branches are connected and what relationships exist between them.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
