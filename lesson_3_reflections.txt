@@ -1,3 +1,7 @@
 When would you want to create a remote repository rather than keeping all you work local?
   I would do that if want to access my work from multiple computers, or to share my work, or to work on it together with others, or to keep a safe backup of it.
   
+ Describe the differences between forks, clones, and branches. When would you use one instead of another?
+ 	A clone is copy of a repository that may be done from github account to a local machine or in a local machine
+ 	A fork may be seen as a clone that is done on github account (just on github servers).
+ 	A branch is just a new commit that is made that allows to have a different posterior sequence of commits than the other branches
